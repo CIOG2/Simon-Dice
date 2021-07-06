@@ -70,7 +70,7 @@ body{
 
 
 .light{
-    opacity: .4;
+    background-color: white;
     transform: scale(1.04);
     transition: transform 350ms;
 }
